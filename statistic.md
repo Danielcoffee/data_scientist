@@ -30,4 +30,3 @@
 - matrix tranformations
 - systems of linear equations
 
-
