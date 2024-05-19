@@ -8,7 +8,6 @@
   - Video: [Advanced Data Analysis with Pandas](https://www.youtube.com/watch?v=5JnMutdy6Fw) by Corey Schafer
   - Book: *[Effective Pandas](https://www.amazon.com/Effective-Pandas-Patterns-Tools-Transformation/dp/1735543008)* by Matt Harrison
 - It's me now
-- Today is 19/5
 **1.2 Data Visualization**
 - **Advanced Matplotlib and Seaborn**:
   - Course: [Data Visualization with Python](https://www.datacamp.com/courses/data-visualization-with-python) on DataCamp
