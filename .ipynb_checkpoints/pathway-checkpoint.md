@@ -4,17 +4,20 @@
 
 **1.1 Advanced Pandas and Data Wrangling**
 - **Advanced Pandas**:
-  - Course: [Data Manipulation with Python](https://www.datacamp.com/courses/data-manipulation-with-python) on DataCamp
-  - Video: [Advanced Data Analysis with Pandas](https://www.youtube.com/watch?v=5JnMutdy6Fw) by Corey Schafer
+  - course: change with Python for Data Science and Machine Learning Bootcamp" by Jose Portilla on Udemy -> OK
+  - Video: [Advanced Data Analysis with Pandas](https://www.youtube.com/watch?v=5JnMutdy6Fw) by Corey Schafer -> OK
   - Book: *[Effective Pandas](https://www.amazon.com/Effective-Pandas-Patterns-Tools-Transformation/dp/1735543008)* by Matt Harrison
 - It's me now
+- Today is 19/5
+
 **1.2 Data Visualization**
 - **Advanced Matplotlib and Seaborn**:
-  - Course: [Data Visualization with Python](https://www.datacamp.com/courses/data-visualization-with-python) on DataCamp
+    - Change to video: [from freecodecamp](https://www.youtube.com/watch?v=GPVsHOlRBBI) -> OK
+
   - Video: [Python Data Visualization (2018)](https://www.youtube.com/watch?v=FytuB8nFHPQ) by CS Dojo
   - Book: *[Python Data Science Handbook](https://www.amazon.com/Python-Data-Science-Handbook-Essential/dp/1491912057)* by Jake VanderPlas
 - **Plotly and Dash**:
-  - Course: [Interactive Data Visualization with Plotly in Python](https://www.udemy.com/course/interactive-python-dashboards-with-plotly-and-dash/) on Udemy
+  - Course: [Interactive Data Visualization with Plotly in Python](https://www.udemy.com/course/interactive-python-dashboards-with-plotly-and-dash/) on Udemy -> OK
   - Video: [Dash Python - Create Interactive Dashboards](https://www.youtube.com/watch?v=hSPmj7mK6ng) by Charming Data
   - Book: *[Interactive Data Visualization for the Web](https://www.amazon.com/Interactive-Data-Visualization-Scott-Murray/dp/1491921285)* by Scott Murray
 

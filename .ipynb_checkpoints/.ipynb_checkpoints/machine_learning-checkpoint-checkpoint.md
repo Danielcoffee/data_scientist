@@ -17,6 +17,3 @@
 > *Example*:
 - google news
 
-- cost of function: Squared error cost function = J
-- goal of linear regression: minimize j(w)
-- for the simple version: w ==
