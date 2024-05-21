@@ -1,14 +1,14 @@
 ### 1. **Strengthen Your Python Skills**
 Python is a key language in data science. Focus on libraries and frameworks commonly used in the field:
-- **NumPy**: For numerical operations.
-- **Pandas**: For data manipulation and analysis.
-- **Matplotlib and Seaborn**: For data visualization.
+- **NumPy**: For numerical operations. -> OK
+- **Pandas**: For data manipulation and analysis. -> OK
+- **Matplotlib and Seaborn**: For data visualization. -> Learning
 - **Scikit-learn**: For machine learning.
 
 ### 2. **Learn Data Visualization**
 Understanding data through visual representation is crucial. In addition to Matplotlib and Seaborn, consider learning:
 - **Plotly**: For interactive plots.
-- Video: Video: "Interactive Data Visualization in Python With Plotly and Dash" by Corey Schafer
+-Video: "Interactive Data Visualization in Python With Plotly and Dash" by Corey Schafer
 - **Tableau or Power BI**: Popular tools for business intelligence and dashboard creation.
 Video: "Power BI Full Course - Learn Power BI in 4 Hours | Power BI Tutorial | Edureka"
 Video: "Tableau Full Course - Learn Tableau in 6 Hours | Tableau Training for Beginners | Edureka"

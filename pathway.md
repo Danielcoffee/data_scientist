@@ -11,7 +11,7 @@
 
 **1.2 Data Visualization**
 - **Advanced Matplotlib and Seaborn**:
-    - Change to video: [from freecodecamp](https://www.youtube.com/watch?v=GPVsHOlRBBI) -> OK
+    - Change to video: [from freecodecamp](https://www.youtube.com/watch?v=GPVsHOlRBBI) -> 4 hours.
   - Book: *[Python Data Science Handbook](https://www.amazon.com/Python-Data-Science-Handbook-Essential/dp/1491912057)* by Jake VanderPlas
 
 - **Plotly and Dash**:
